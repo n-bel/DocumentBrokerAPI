@@ -1,0 +1,6 @@
+@DocumentBroker_HostAddress = http://localhost:5230
+
+GET {{DocumentBroker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
